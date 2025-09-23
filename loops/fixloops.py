@@ -30,4 +30,7 @@ for counter in range(1,13):
     print ("7 *", counter , "=", counter *7)
 
 #question7
+for i in range(1, 11): 
 
+ age = int(input("Enter the age of person " + str(i) + ": ")) 
+ print ("The age of person " + str(i) + " is: " + str(age))
