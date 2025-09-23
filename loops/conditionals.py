@@ -34,6 +34,6 @@ total_money = 0
 while total_money <= 100:
     amount = float(input("Enter amount of money gimme more: "))
     total_money += amount
-print("I accept your offer")
+print("I accept your offer thank you for your donation")
 
 #question17
